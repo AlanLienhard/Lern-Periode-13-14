@@ -54,7 +54,9 @@ Ich habe weiter an der Implementation einer Pathfinding-Funktion, habe es aber n
 
 ## 06.03.2026
 
-- [ ] Weiter an der Erweiterung arbeiten
-- [ ] Weiter an der Erweiterung arbeiten
-- [ ] Erweiterung für die Veröffentlichung "aufbereiten"
-- [ ] Erweiterung auf Firefox AMO submitten und Beschreibungen und co. hinzufügen
+- [x] Weiter an der Erweiterung arbeiten
+- [x] Weiter an der Erweiterung arbeiten
+- [x] Erweiterung für die Veröffentlichung "aufbereiten"
+- [x] Erweiterung auf Firefox AMO submitten und Beschreibungen und co. hinzufügen
+
+Ich habe alle meine anfänglich geplanten Funktionalitäten hinzugefügt und die Erweiterung eingereicht und sie hat die automatischen Tests bestanden, es fehlt noch der menschliche Test/Review (nachträglich: Es wurde angenommen und ist unter https://addons.mozilla.org/en-US/firefox/addon/search-select/reviews/2606567/ erhältlich). Es gibt noch ein paar Bugs, die auf einigen Seiten aus einem mir unbekannten Grund auftreten, sonst funktioniert es gut.
