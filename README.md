@@ -45,7 +45,16 @@ Ich habe mich weiter daran versucht. Zuerst habe ich theoretisch mittels Videos 
 
 ## 27.02.2026
 
-- [ ] Pathfinding
-- [ ] Pathfinding
-- [ ] An Firefox-Extension weiterarbeiten
-- [ ] Firefox-Extension
+- [x] Pathfinding
+- [x] Pathfinding
+- [x] An Firefox-Extension weiterarbeiten
+- [x] Firefox-Extension
+
+Ich habe weiter an der Implementation einer Pathfinding-Funktion, habe es aber noch nicht geschafft, mache aber Fortschritte. Damit ich nicht die ganze Zeit am Selben arbeite, habe ich beschlossen, weiter an meiner angefangenen Firefox-Erweiterung zu arbeiten, die ich dann schlussendlich veröffentlichen möchte. Dort kann man Text auswählen und dann popped ein kleines Interface auf, wo man die Wahl hat, die selektierten Buchstaben bzw. Wörter auf Wikipedia, Wiktionary oder Google zu suchen. Die Suchen passen sich auch der selektierten Sprache an (bei Google passiert das automatisch, bei den Anderen zwei musste ich manuell etwas machen).
+
+## 06.03.2026
+
+- [ ] Weiter an der Erweiterung arbeiten
+- [ ] Weiter an der Erweiterung arbeiten
+- [ ] Erweiterung für die Veröffentlichung "aufbereiten"
+- [ ] Erweiterung auf Firefox AMO submitten und Beschreibungen und co. hinzufügen
