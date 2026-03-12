@@ -18,8 +18,25 @@ Ich habe zusätzliche Stationen hinzugefügt und weiterhing versucht, die Arc zu
 
 ## 23.02.2026
 
-- [ ] Arc korrigieren
-- [ ] Arc korrigieren
-- [ ] Arc korrigieren
-- [ ] Suchfunktion für Stationen hinzufügen
+- [x] Arc korrigieren
+- [x] Arc korrigieren
+- [x] Arc korrigieren
+- [x] Suchfunktion für Stationen hinzufügen
 
+Ich habe die Arc/den "kurvigen Tunnel" so verhalten lassen, wie ich es wollte und ich habe angefangen, eine Suchfunktion hinzuzufügen, wo man nach einer Station sucht und die Anderen verblassen, damit die gesuchte hervorgehoben ist.
+
+## 13.02.2026
+
+- [x] An der Suchfunktion weiter arbeiten
+- [x] Suchfunktion erarbeiten
+- [x] Pathfinding anfangen zu implementieren (Dijkstra-Algorithmus)
+- [ ] Pathfinding
+
+Ich habe länger an der Suchfunktion gearbeitet als erwartet, daher konnte ich nur ein Arbeitspaket dem Dijkstra-Algorithmus widmen. Diesen Algorithmus in mein Programm einzuführen ist für mich viel komplizierter, als ich es erwartet habe.
+
+## 20.02.2026
+
+- [ ] Pathfinding
+- [ ] Am Pathfinding weiterarbeiten
+- [ ] Pathfinding
+- [ ] Pathfinding
