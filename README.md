@@ -36,7 +36,16 @@ Ich habe länger an der Suchfunktion gearbeitet als erwartet, daher konnte ich n
 
 ## 20.02.2026
 
+- [x] Pathfinding
+- [x] Am Pathfinding weiterarbeiten
+- [x] Pathfinding
+- [x] Pathfinding
+
+Ich habe mich weiter daran versucht. Zuerst habe ich theoretisch mittels Videos nochmals geschaut, wie der Algorithmus funktioniert. Dann habe ich ich meine Karte/Map mit "weighted-nodes" verseht.
+
+## 27.02.2026
+
 - [ ] Pathfinding
-- [ ] Am Pathfinding weiterarbeiten
 - [ ] Pathfinding
-- [ ] Pathfinding
+- [ ] An Firefox-Extension weiterarbeiten
+- [ ] Firefox-Extension
